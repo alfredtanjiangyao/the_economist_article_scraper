@@ -14,4 +14,4 @@ __pycache__/
 .DS_Store
 
 # Logs
-logs/
+logs/user_agents_log.csv
