@@ -45,8 +45,11 @@ def log_user_agent(user_agent: str, status: str, base_dir: str, csv_filename: st
     Returns:
         None
     """
+    logs_dir = os.path.join(base_dir, "logs")
+    os.makedirs(logs_dir, exist_ok=True)
+
     # Full path to the CSV file
-    csv_file = os.path.join(base_dir, "logs", csv_filename)
+    csv_file = os.path.join(logs_dir, csv_filename)
     os.makedirs(os.path.dirname(csv_file), exist_ok=True)
 
     # Generate timestamp (e.g., 2025-11-17 14:32:10)
