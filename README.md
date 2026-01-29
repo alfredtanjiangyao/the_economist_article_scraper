@@ -1,6 +1,8 @@
 # THE ECONOMIST Article Scraper
 
-![The Economist Logo](assets/the_economist_logo.png)
+<p align="left">
+  <img src="assets/the_economist_logo.png" alt="The Economist Logo" width="200">
+</p>
 
 We develop a tool to scrape articles from *The Economist* for personal use, including text and images, without a subscription.
 
