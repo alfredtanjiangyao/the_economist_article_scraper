@@ -1,0 +1,102 @@
+[
+    {
+        "article_title": "Just how debased is the dollar?",
+        "article_subtitle": "Not nearly as much as it could be",
+        "article_link": "https://www.economist.com/finance-and-economics/2026/01/28/just-how-debased-is-the-dollar",
+        "article_section": "finance-and-economics",
+        "article_date": "2026-01-28",
+        "cover_page_exists": true,
+        "cover_page_more_than_2": false,
+        "cover_page_metadata_dict": {
+            "cover_page_1": {
+                "link": "https://www.economist.com/cdn-cgi/image/width=834,quality=80,format=auto/content-assets/images/20260131_FND004.jpg",
+                "format": "jpg",
+                "multiple_img_in_a_figure": false,
+                "is_figcaption_more_than_2": false,
+                "caption": null,
+                "reference": "Illustration: Satoshi Kambayashi"
+            }
+        },
+        "images_metadata_dict": {},
+        "paragraph_image_counts_dict": {},
+        "structured_text_blocks_dict": {
+            "1": {
+                "heading": false,
+                "subheading": false,
+                "paragraph": true,
+                "end_idx": 14838,
+                "content_text": "DONALD TRUMP loves shows of strength. Except, it seems, when it comes to the dollar. When asked on January 27th about its recent weakness, the president said it was “doing great”. Following that assertion the dollar did even more great, in this Trumpian sense—it slid to its softest in almost four years against a basket of other currencies. It has now declined by around 12% since its peak before Mr Trump’s inauguration last year."
+            },
+            "2": {
+                "heading": false,
+                "subheading": false,
+                "paragraph": true,
+                "end_idx": 16578,
+                "content_text": "Despite the insistence of Scott Bessent, the treasury secretary, that America has a “strong-dollar policy”, Mr Trump seems to believe that a weaker dollar will boost American exports and curb imports, reducing the trade deficit—one of his long-standing bugbears. Many investors fear it reflects something more malign: his disdain for America’s European allies, his assaults on the independence of the Federal Reserve and the erosion of other institutional norms. Trading floors are abuzz with talk of the “debasement trade”, a broad term for bets on the deterioration of American financial exceptionalism. If the debasement traders are right, then the sell-off in the greenback has barely begun."
+            },
+            "3": {
+                "heading": false,
+                "subheading": false,
+                "paragraph": true,
+                "end_idx": 27474,
+                "content_text": "Exhibit A for the debasement trade is the surging price of gold. An ounce of it costs $5,200. That is 22% more than at the start of the year—and it is not even February. These days the ancient store of value rallies not just on bad news, but on good news, too. Since Mr Trump’s wall of global tariffs was revealed to the world on April 2nd last year, the S&P 500 index of big American firms dropped by more than 1% on 27 occasions. On average, the price of gold rose by 0.6% per day during those sell-offs. On the 24 days when the S&P 500 leapt by more than 1%, gold popped by 0.2%."
+            },
+            "4": {
+                "heading": false,
+                "subheading": false,
+                "paragraph": true,
+                "end_idx": 30837,
+                "content_text": "If gold tells one story, though, other assets tell another. American securities are not exactly being jettisoned. Even as the dollar has weakened over the past 12 months, the S&P 500 has risen by 15%. On January 27th it hit another all-time high. The yield on America’s ten-year Treasury bonds, which moves inversely to their price, is lower than it was when Mr Trump took office just over a year ago."
+            },
+            "5": {
+                "heading": false,
+                "subheading": false,
+                "paragraph": true,
+                "end_idx": 33272,
+                "content_text": "Why are American assets so strong despite the dollar’s ostensible weakness? One explanation is that the dollar is not actually all that weak. Despite its decline over the past 12 months, the real exchange rate (which accounts for differences in inflation between countries) was 13% above its average of the past 30 years. Using The Economist’s Big Mac Index, based on the prices of the McDonald’s delicacy around the world, the dollar is overvalued against 49 of 70 currencies."
+            },
+            "6": {
+                "heading": false,
+                "subheading": false,
+                "paragraph": true,
+                "end_idx": 34661,
+                "content_text": "Anther explanation involves how foreign investors, who have gorged on American securities since the global financial crisis of 2007-09, protect against currency risk. A basic form of such protection is the foreign-exchange swap, a derivative which allows an investor holding a foreign assets to hedge the risk of a sell-off in another currency."
+            },
+            "7": {
+                "heading": false,
+                "subheading": false,
+                "paragraph": true,
+                "end_idx": 39558,
+                "content_text": "If this protection is bought when a security is first purchased, it has no effect on the exchange rate. For reasons of financial maths, that is not the case if a portfolio is hedged only later. Research published in June by the Bank for International Settlements, a club of central banks, suggests that far more investors scrambled to hedge their currency exposure in the aftermath of Mr Trump’s tariff broadside in April. At the time American assets tumbled, taking the dollar with them. The dollar’s weakness, then, may be a reflection not of “sell America”, as some excitable observers describe it, but rather “hedge America”."
+            },
+            "8": {
+                "heading": false,
+                "subheading": false,
+                "paragraph": true,
+                "end_idx": 41248,
+                "content_text": "Both the real exchange rate and the hedging behaviour imply that the dollar may have a long way to fall. If America’s currency is not weak by historical standards, it could easily get weaker. And hedging could make it so, particularly if Mr Trump gets his wish and the Fed cuts short-term interest rates. (It held rates steady on January 28th.) That is because the price of foreign-currency swaps moves in line with those short-term rates. Cheaper insurance means that more foreign investors will want some—especially if American assets keep rising in value. But the more currency swaps they buy, the greater the downward pressure on the dollar."
+            },
+            "9": {
+                "heading": false,
+                "subheading": false,
+                "paragraph": true,
+                "end_idx": 42584,
+                "content_text": "If this self-reinforcing cycle continues for long enough, “hedge America” may eventually turn into full-blown “sell America”. If Mr Trump keeps undermining the credibility of America’s financial system, that moment could come sooner. In the meantime, debasement traders had better buckle up."
+            }
+        },
+        "exact_start_marker": "Just how debased is the dollar?</h1>",
+        "exact_end_marker": "Explore more</h3>",
+        "manual_review_signals": {
+            "unusual_start_marker": false,
+            "unusual_end_marker": true,
+            "is_indicators_or_letters": false,
+            "is_more_than_30_text_blocks": false,
+            "has_svg": true,
+            "has_svelte": false,
+            "cover_page_more_than_2": false,
+            "multiple_images_in_a_figure": false,
+            "figcaption_more_than_2": false
+        },
+        "requires_manual_review": true
+    }
+]

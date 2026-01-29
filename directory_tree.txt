@@ -1,0 +1,29 @@
+the_economist_article_scraper/
+├─ README.md
+├─ assets
+│  ├─ launch_dashboard_demo.mp4
+│  ├─ scrape_article_demo.mp4
+│  └─ the_economist_logo.png
+├─ config.yaml
+├─ dashboard
+│  ├─ single_user_agent_log_analysis.py
+│  ├─ streamlit_app.py
+│  └─ user_agents_log_analysis.py
+├─ data/
+│  └─ {article_title}/
+│     └─ {article_title}.json
+├─ directory_tree.txt
+├─ logs
+│  └─ user_agents_log.csv
+├─ requirements.txt
+├─ src
+│  ├─ data_preprocessing_json.py
+│  ├─ generate_directory_tree.py
+│  ├─ generate_json.py
+│  ├─ main.py
+│  ├─ reorder_json.py
+│  ├─ scrape_article_html.py
+│  ├─ scrape_article_text_image.py
+│  └─ setup_environment.py
+└─ utils
+   └─ load_config.py

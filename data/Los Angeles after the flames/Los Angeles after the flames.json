@@ -1,0 +1,16 @@
+[
+    {
+        "article_title": "Los Angeles after the flames",
+        "article_link": "https://www.economist.com/interactive/united-states/2025/12/30/los-angeles-after-the-flames",
+        "article_section": "united-states",
+        "article_date": "2025-12-30",
+        "article_subtitle": "A year after the city burned, the recovery has just begun",
+        "exact_start_marker": "Los Angeles after the flames</h1>",
+        "exact_end_marker": "■",
+        "manual_review_signals": {
+            "unusual_start_marker": false,
+            "unusual_end_marker": false,
+            "is_indicators_or_letters": false
+        }
+    }
+]
