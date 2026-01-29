@@ -49,7 +49,11 @@ $ python3 src/generate_directory_tree.py
 
 The scraper uses a list of user agents defined in `config.yaml` to avoid server blocks. Each request selects a random user agent, making it appear as if the requests come from different browsers or devices. This helps reduce the chance of being detected or blocked by the server. 
 
-We also provide a Streamlit dashboard to monitor the success rate of each use agent. To launch the dashboard:
+We also provide a Streamlit dashboard to monitor the success rate of each use agent. 
+
+![Dashboard Showcase GIF](assets/dashboard_showcase.gif)
+
+To launch the dashboard:
 
 ```sh
 $ streamlit run dashboard/streamlit_app.py
